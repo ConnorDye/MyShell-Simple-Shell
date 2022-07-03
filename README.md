@@ -1,7 +1,7 @@
 Simple Shell
 ==============
 
-Simple shell written in C.
+Simple recreation of the Unix shell written in C.
 
 Created by Connor Dye as an California Polytechnic University Project.
 
