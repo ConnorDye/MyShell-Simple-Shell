@@ -3,7 +3,7 @@ Simple Shell
 
 Simple shell written in C.
 
-Created by [Connor Dye] as an California Polytechnic University Project.
+Created by Connor Dye as an California Polytechnic University Project.
 
 Features
 --------
