@@ -1,4 +1,4 @@
-Simple Shell
+MyShell Simple Shell
 ==============
 
 Simple recreation of the Unix shell written in C.
